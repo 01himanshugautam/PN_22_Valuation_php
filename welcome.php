@@ -28,7 +28,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] != true) {
     Welcome - <?php echo $_SESSION['username'] ?>
     <div class="container form-floating mt-10 pt-3 mb-3 p-3">
 
-        <form action="">
+        <form action="output.php">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-1 ">
