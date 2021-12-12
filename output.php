@@ -9,14 +9,20 @@
 
     <!-- Latest compiled JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
-
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display:wght@500&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+        </style>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display:ital@1&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+            </style>
 </head>
 
 <body>
-    <div class="container" style="max-width: 679px;">
+    <div class="container" style="max-width: 679px; margin-top: 50px;">
         <div id="exportContent">
-            <p> <span style="font-size:24px;color:#002060;">BHARTIA &amp; ASSOCIATES</span> </p>
-            <p style="margin-left:-18.0pt;text-align:justify;"><span style="color:#002060;">&nbsp; &nbsp; &nbsp; &nbsp;
+       
+            <div id="isPasted"> <span style="font-family: 'Lora', serif;  font-size:24px;color:#002060;">BHARTIA &amp; ASSOCIATES</span> </div>
+            <div style="margin-left:-18.0pt;text-align:justify;"><span style="color:#002060;">&nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Proprietor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -24,23 +30,15 @@
                     &nbsp;
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-            <p style="margin-left:-18.0pt;text-align:justify;"> <span style="font-size:27px;color:#002060;">&nbsp;
-                    &nbsp;Shyam Sundar Bhartia &nbsp;&nbsp;</span> </p>
-            <p id="isPasted"> <span style="font-size:24px;color:#002060;">BHARTIA &amp; ASSOCIATES</span> </p>
-            <p style="margin-left:-18.0pt;text-align:justify;"><span style="color:#002060;">&nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Proprietor&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-            <p style="margin-left:-18.0pt;text-align:justify;"> <span style="font-size:27px;color:#002060;">&nbsp;
-                    &nbsp;Shyam Sundar Bhartia&nbsp; &nbsp;&nbsp;</span> </p>
-            <p style="margin-left:-18.0pt;text-align:justify;"><span style="font-size:13px;color:#002060;">&nbsp;&nbsp;
-                    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; B.E.,MIE.,FIV,FIISA,FICA, AIII. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+            </div>
+           
+           
+            
+            <div style="margin-left:-18.0pt;text-align:justify;"> <span style="font-family: 'Playfair Display', serif; font-size:27px;color:#002060;">&nbsp;
+                    &nbsp;Shyam Sundar Bhartia&nbsp; &nbsp;&nbsp;</span> </div>
+            <div style="margin-left:-18.0pt;text-align:justify;"><span style="font-size:13px;color:#002060;">&nbsp;&nbsp;
+                    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; B.E.,MIE.,FIV,FIISA,FICA, AIII. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
                     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -48,7 +46,9 @@
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp;&nbsp;</span> <u><span style="color:#002060;">OFFICE</span></u><span
+                    &nbsp;&nbsp;</span></div>
+            
+                    <p> <u><span style="color:#002060;">OFFICE</span></u><span
                     style="color:#002060;">&nbsp;:</span> </p>
             <p style="margin-left:-18.0pt;text-align:justify;"><span style="color:#002060;">&nbsp; &nbsp;
                     &nbsp;CHARTERED
@@ -57,11 +57,9 @@
             <p style="margin-left:-18.0pt;text-align:justify;"><span style="color:#002060;">&nbsp; &nbsp; &nbsp;GOVT.
                     REGD.
                     &amp; APPROVED VALUER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                    &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
-                    &nbsp;
-                    &nbsp; &nbsp; &nbsp;PATNA &ndash; 800001 (BIHAR)&nbsp;</span></p>
+                    PATNA  800001 (BIHAR)&nbsp; </p>
             <p style="margin-left:-18.0pt;text-align:justify;"><span style="font-size:13px;color:#002060;">&nbsp; &nbsp;
                     (Under Wealth Tax Act, Income Tax Valuer) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                     &nbsp;
@@ -85,9 +83,9 @@
             </div>
             <p style="margin-top:.2pt;margin-right:5.15pt;margin-bottom:.0001pt;margin-left:0cm;">Ref No. : B&amp;A/2021
                 &ndash; 2022/UCO/ASH/AMT/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+                &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp;
-                &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Date: 13.09.2021.</p>
+               Date: 13.09.2021.</p>
             <p style="margin-top:.2pt;margin-right:5.15pt;margin-bottom:.0001pt;margin-left:0cm;">
                 <strong> &nbsp; </strong>
             </p>
@@ -6217,7 +6215,7 @@
 
 
     </div>
-    <button onclick="Export2Doc('exportContent', 'test');">
+    <button style="margin-left: 50%; margin-top: 25px;" onclick="Export2Doc('exportContent', 'test');">
         Export as Doc
     </button>
 
